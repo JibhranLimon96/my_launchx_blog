@@ -9,6 +9,13 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀
 
-*  I just love **bold text**.
-*  Love**is**bold
+Para mi la cultura de un desarrollador de sofware se basa en:
+ 
+_ Ser autodidacta.
+- Apasionado.
+_ Proactivo.
+_ Honesto.
+_Dedicado
+-
+_
 
