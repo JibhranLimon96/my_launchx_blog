@@ -1,6 +1,6 @@
 baseURL = "https://jibhranlimon96.github.io/my_launchx_blog"
 languageCode = "en-us"
-title = "Bitácora de Viaje Jibhran Aguilar Limon (SOY EL MEJOR)"
+title = "Bitácora de Viaje Jibhran Eleno Aguilar Limon"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
@@ -14,6 +14,7 @@ paginate = 3
   google_analytics_id = ""
   # Hey Explorer aquí pon tu twitter 👇
   twitter_handle = "@JibhranL"
+  Linkedin_handle = "@JibhranL"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
