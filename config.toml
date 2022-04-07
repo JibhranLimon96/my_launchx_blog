@@ -1,6 +1,6 @@
 baseURL = "https://jibhranlimon96.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje Jibhran Aguilar (SOY EL MEJOR)"
+title = "Bitácora de Viaje Jibhran Aguilar Limon (SOY EL MEJOR)"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
