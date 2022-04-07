@@ -12,8 +12,14 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 Para mi la cultura de un desarrollador de sofware se basa en:
  
 _ Ser autodidacta.
+
 _ Apasionado
+
 _ Proactivo
+
 _ Honesto
+
 _ Dedicado
+
+
 
