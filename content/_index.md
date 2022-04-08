@@ -20,12 +20,12 @@ _ Honesto
 _ Dedicado
 
 <figure>
-    <img src="/assets/images/albuquerque.jpg"
+    <img src="https://user-images.githubusercontent.com/17634377/155240699-b0bb0cae-9864-495a-a6df-30bdbbd413ab.png"
          alt="Albuquerque, New Mexico">
     <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
 </figure>
 
-:memo: **Note:** Sunrises are beautiful.
+**Note:** Sunrises are beautiful.
 
 
 
