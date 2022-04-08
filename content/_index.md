@@ -20,12 +20,17 @@ _ Honesto
 _ Dedicado
 
 <figure>
-    <img src="https://user-images.githubusercontent.com/17634377/155240699-b0bb0cae-9864-495a-a6df-30bdbbd413ab.png"
+    <img src="https://th.bing.com/th/id/OIP.Tums41FARnW23dtyXsi86wHaE8?pid=ImgDet&rs=1"
          alt="Albuquerque, New Mexico">
     <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
 </figure>
 
 **Note:** Sunrises are beautiful.
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
 
+[![Less Than Jake — Scott Farcas Takes It On The Chin](https://img.youtube.com/vi/PYCxct2e0zI/0.jpg)](https://www.youtube.com/watch?v=PYCxct2e0zI)  
 
