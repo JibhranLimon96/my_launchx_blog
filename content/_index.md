@@ -9,6 +9,7 @@ date: 2022-04-07
  <font color="red">"La cultura de un desarrollador de software"</font>
  
 Para mi la cultura de un desarrollador de sofware se basa en:
+
 _ Ser autodidacta.
 
 _ Apasionado 🐨 
@@ -18,6 +19,7 @@ _ Proactivo 🐵
 _ Honesto 🐼 
 
 _ Dedicado
+
 
 <figure>
     <img src="https://th.bing.com/th/id/OIP.Tums41FARnW23dtyXsi86wHaE8?pid=ImgDet&rs=1"
@@ -32,5 +34,12 @@ _ Dedicado
 | Header      | Title |
 | List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
 
-
-
+curl \
+  -X POST \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/markdown \
+  -d '{"text":"text"}'
+  
+  await octokit.request('POST /markdown', {
+  text: 'text'
+})
