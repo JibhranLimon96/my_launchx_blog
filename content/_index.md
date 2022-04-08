@@ -34,12 +34,4 @@ _ Dedicado
 | Header      | Title |
 | List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
 
-curl \
-  -X POST \
-  -H "Accept: application/vnd.github.v3+json" \
-  https://api.github.com/markdown \
-  -d '{"text":"text"}'
-  
-  await octokit.request('POST /markdown', {
-  text: 'text'
-})
+<p><img src="https://www.adslzone.net/app/uploads-adslzone.net/2020/03/aperMicrosoft.jpg" alt="foo" title="title" /></p>
