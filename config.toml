@@ -21,16 +21,4 @@ paginate = 3
   addFrame = true
   addDot = true
 
-[params]
-  google_analytics_id = ""
-  # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@JibhranL"
-  Linkedin_handle = "@JibhranL"
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = false
-  showPostsOnHomepage = false
-  addFrame = true
-  addDot = true
-
-
 
