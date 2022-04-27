@@ -102,20 +102,20 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="img_nature_wide.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
+  <img src="https://th.bing.com/th/id/R.b1de9710c7b32ceb1769317640bd67e9?rik=u8DMcgV01xrQVA&riu=http%3a%2f%2fwww.ciapem.org%2fwp-content%2fuploads%2f2014%2f02%2ftalent-land-1.jpg&ehk=VJqfjaMwa6TAO9OOpv9HjtNVrRjOAXjXHk%2bGESCJLHs%3d&risl=&pid=ImgRaw&r=0" style="width:100%">
+  <div class="text">Siguiente imagen</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="img_snow_wide.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
+  <img src="https://th.bing.com/th/id/R.739c2c8b094be37a7961085d153c6ef3?rik=tGYjOfHFqzzUtA&riu=http%3a%2f%2fgamerstyle.com.mx%2fwp-content%2fuploads%2f2019%2f03%2fTalent-Land-2019.jpg&ehk=T7vfVAn3Eyd2hh0EoX1kGy%2foLn0U4%2bSCy3igqZgFAYc%3d&risl=&pid=ImgRaw&r=0" style="width:100%">
+  <div class="text">Talent Jobs</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <img src="https://i0.wp.com/www.valor-compartido.com/wp-content/uploads/2019/04/talent-land-2020.jpg?fit=1002%2C562&ssl=1" style="width:300%">
+  <div class="text">Vamos con todo</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
